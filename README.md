@@ -1,4 +1,4 @@
-# Anime Prediction
+# Anime Predikcija
 
 Projekat iz oblasti **mašinskog učenja i obrade podataka** čiji je cilj predikcija ocene i kvaliteta anime naslova na osnovu podataka iz **MyAnimeList** baze.
 
@@ -45,6 +45,7 @@ Za regresione modele korišćene su metrike **MAE, RMSE i R²**, dok su klasifik
 ## Autori
 
 **Nađa Jakšić**
+
 **Aleksandra Golić**
 
 Fakultet tehničkih nauka, Univerzitet u Novom Sadu
